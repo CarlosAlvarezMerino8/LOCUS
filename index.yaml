@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  parser-uma:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-18T04:33:40.979570419-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 0a17bd6875c1f25c5d00c4410a3c772027ff0a5a3acdcb49a491808cf50470a4
+    name: parser-uma
+    type: application
+    urls:
+    - https://carlosalvarezmerino8.github.io/LOCUS/parser-uma/parser-uma-0.1.0.tgz
+    version: 0.1.0
+  positioning-uma:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-18T04:33:40.980232759-04:00"
+    description: A Helm chart for Kubernetes
+    digest: fae922efbfe487d3b0c6e85b6253d0c1ddc5abd2f4090727a4f32a2a8eb3dc59
+    name: positioning-uma
+    type: application
+    urls:
+    - https://carlosalvarezmerino8.github.io/LOCUS/positioning-uma/positioning-uma-0.1.0.tgz
+    version: 0.1.0
+  server-uma:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-18T04:33:40.980795512-04:00"
+    description: A Helm chart for Kubernetes
+    digest: e1482535fc5296ad223773acfd9478546fe6052294768ff405a69cf61ad68237
+    name: server-uma
+    type: application
+    urls:
+    - https://carlosalvarezmerino8.github.io/LOCUS/server-uma/server-uma-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-18T04:33:40.978358539-04:00"
